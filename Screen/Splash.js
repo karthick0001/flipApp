@@ -17,7 +17,8 @@ useEffect (()=>{
              style={{width:250,}} 
              source={require('../assets/image/splash.png')} />
             </View>
-            {/* <View>Dummy Text</View> */}
+            {/* <View>Dummy Text</View>
+            <View>Dummy Text</View> */}
         </View>
     );
 }
